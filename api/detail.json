@@ -1,0 +1,113 @@
+{
+  "ret": true,
+  "data": {
+    "sightName": "大连圣亚海洋世界(AAAA景区)",
+    "bannerImg": "http://img1.qunarzz.com/sight/p0/201404/23/04b92c99462687fa1ba45c1b5ba4ad77.jpg_600x330_bf9c4904.jpg",
+    "gallaryImgs": ["http://img1.qunarzz.com/sight/p0/201404/23/04b92c99462687fa1ba45c1b5ba4ad77.jpg_800x800_70debc93.jpg", "http://img1.qunarzz.com/sight/p0/1709/76/7691528bc7d7ad3ca3.img.png_800x800_9ef05ee7.png"],
+    "commentList":[{
+      "id": "0001",
+      "username": "w*7",
+      "time": "2017-07-23",
+      "content": "鸳鸯溪就是下山下到脚抖，然后再爬山爬到汗流浃背。结果一路上也只是看看一些小家子气的瀑布 个人还是觉得白水洋比较好玩，如果想安排一天去两个景点的话会很赶，去白水洋记得带好泳装设备",
+      "commentImgs": [
+        "https://imgs.qunarzz.com/piao/fusion/1707/f3/f5a45bc51f415f02.jpg_228x168_9f3c1fc5.jpg",
+        "https://imgs.qunarzz.com/piao/fusion/1707/d3/17985821732aa102.jpg_228x168_61f9d98a.jpg",
+        "https://imgs.qunarzz.com/piao/fusion/1707/d8/a7072711057d1202.jpg_228x168_ab093006.jpg",
+        "https://imgs.qunarzz.com/piao/fusion/1707/b5/43188526103e7902.jpg_228x168_6a53826e.jpg",
+        "https://imgs.qunarzz.com/piao/fusion/1707/24/7a2bf41db6675702.jpg_228x168_cfa4dd9e.jpg",
+        "https://imgs.qunarzz.com/piao/fusion/1707/aa/a9fcf8baea3af02.jpg_228x168_babc0eb0.jpg"
+      ]
+    }, {
+      "id": "0002",
+      "username": "summer",
+      "time": "2015-07-05",
+      "content": "天下绝景，宇宙之迷！值的一去！",
+      "commentImgs": [
+        "https://imgs.qunarzz.com/p/tts7/1805/8d/f73789115966202.jpg_228x168_ca75c3ac.jpg",
+        "https://imgs.qunarzz.com/p/tts6/1805/bd/2707d80860ca1902.jpg_228x168_2c485e5e.jpg",
+        "https://imgs.qunarzz.com/p/tts1/1805/5b/3e833616179bd702.jpg_228x168_69de0921.jpg",
+        "https://imgs.qunarzz.com/p/tts3/1805/dc/d43b6adb693d8e02.jpg_228x168_222f42bf.jpg",
+        "https://imgs.qunarzz.com/p/tts6/1805/29/b3bdeec5bc7e602.jpg_228x168_bc689854.jpg",
+        "https://imgs.qunarzz.com/p/tts8/1805/7e/0cc7a33cc165a02.jpg_228x168_800169db.jpg"
+      ]
+    }],
+    "categoryList": [{
+      "title": "成人票",
+      "children": [{
+        "title": "成人三馆联票",
+        "children": [{
+          "title": "成人三馆联票 - 某一连锁店销售"
+        }]
+      },{
+        "title": "成人五馆联票"
+      }]
+    }, {
+      "title": "学生票"
+    }, {
+      "title": "儿童票"
+    }, {
+      "title": "特惠票"
+    }],
+    "recommendlist": [{
+      "id": "0001",
+      "title": "【随买随用，快速入园】白水洋成人票（含观光车）",
+      "price": "¥120.0",
+      "tomorrow": true,
+      "attrs": [{
+        "title": "自营",
+        "imgShow": true,
+        "img": "https://img1.qunarzz.com/piao/fusion/1804/b0/c3cf2897c74ecc02.png"
+      }, {
+        "title": "无需换票",
+        "imgShow": false,
+        "img": ""
+      }, {
+        "title": "随时退",
+        "imgShow": false,
+        "img": ""
+      }]
+    }, {
+      "id": "0002",
+      "title": "【随买随用，快速入园】鸳鸯溪大峡谷成人票",
+      "price": "¥78.0",
+      "tomorrow": false,
+      "attrs": [{
+        "title": "自营",
+        "imgShow": true,
+        "img": "https://img1.qunarzz.com/piao/fusion/1804/b0/c3cf2897c74ecc02.png"
+      }, {
+        "title": "随时退",
+        "imgShow": false,
+        "img": ""
+      }]
+    }, {
+      "id": "0003",
+      "title": "【随买随用，快速入园】白水洋+鸳鸯溪成人联票（含观光车）",
+      "price": "¥170.0",
+      "tomorrow": true,
+      "attrs": [{
+        "title": "自营",
+        "imgShow": true,
+        "img": "https://img1.qunarzz.com/piao/fusion/1804/b0/c3cf2897c74ecc02.png"
+      }, {
+        "title": "无需换票",
+        "imgShow": false,
+        "img": ""
+      }]
+    }, {
+      "id": "0004",
+      "title": "【随买随用，快速入园】白水洋+鸳鸯溪成人联票（含观光车）",
+      "price": "¥999.0",
+      "tomorrow": true,
+      "attrs": [{
+        "title": "自营",
+        "imgShow": true,
+        "img": "https://img1.qunarzz.com/piao/fusion/1804/b0/c3cf2897c74ecc02.png"
+      }, {
+        "title": "无需换票",
+        "imgShow": false,
+        "img": ""
+      }]
+    }]
+  }
+}
